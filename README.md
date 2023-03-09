@@ -1,1 +1,1 @@
-# Hey, there! I'm moving 🚚 my source code 💾 to [SourceHut](https://git.sr.ht/~jmbr).
+# Hi! I'm moving 🚚 my source code 💾 to [SourceHut](https://sr.ht/~jmbr).
